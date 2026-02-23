@@ -81,12 +81,14 @@ def train_model(model, train_loader, num_epochs=3):
 ## Training Loss per Epoch
 
 Include the Training Loss per epoch
+
 <img width="504" height="431" alt="image" src="https://github.com/user-attachments/assets/894ad916-76c3-4cb8-a84e-18b1ac53f6b3" />
 
 
 ## Confusion Matrix
 
 Include confusion matrix here
+
 <img width="824" height="791" alt="image" src="https://github.com/user-attachments/assets/05fc1fc7-34f2-4849-b147-509c0eabe728" />
 
 ## Classification Report
